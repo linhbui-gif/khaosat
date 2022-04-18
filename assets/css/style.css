@@ -1,0 +1,27 @@
+/*
+    Theme Name : Shopwise
+    Theme Description : HTML/CSS/JS
+    Theme Version : 1.0
+    Theme Author : BUI QUANG LINH
+  
+*/
+/* ==================== Table Of Content ==================== 
+    1, Setting
+    2, Header 
+    3, Banner
+    4, ......
+*/
+/* ==================== 1, Setting ==================== */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+/* ==================== 2, Header ==================== */
+/* .header{}
+.header .header__top{} */
